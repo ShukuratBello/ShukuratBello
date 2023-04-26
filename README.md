@@ -12,10 +12,10 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rowangayleschaefer.rowangayleschaefer) 
   
 <h2>Hi, I'm Shukurat! 👋</h2>
+  <!--
 <h4><i>Adobe Scholar and DS Teaching Assistant at General Assembly</i></h3>
 <img src="https://github.com/rowangayleschaefer/rowangayleschaefer/blob/main/imgs/Screenshot%202022-06-12%20at%208.45.45%20PM.png?raw=true" height=65><br />
-
-
+-->
 
 </div>
 
@@ -28,11 +28,11 @@
 
 
 
-1️⃣   My first language: SQL!
+1️⃣   My first and favourite language: SQL
   
 <a href="https://github.com/refs-and-resources" target="blank"><img align="center" src="https://github.com/rowangayleschaefer/rowangayleschaefer/blob/main/imgs/Screenshot%202022-06-18%20at%2011.31.38%20PM.png?raw=true" alt="@rowangayleschaefer" height="25" width="25" /></a>  I keep my resource repos in separate orgs, you can <a href="https://github.com/refs-and-resources"><b>follow them if you want </b></a></a><br />
 
-📄   Learn about me: [**Linkedin**](https://www.linkedin.com/in/rowangayleschaefer)
+📄   Learn about me: [**Linkedin**](https://www.linkedin.com/in/shukurat-bello/)
 
 <br /><p>
 
@@ -75,7 +75,7 @@
   
 <a href="linkedin.com/in/shukurat-bello/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shukurat-bello" height="20" width="30" /></a>  LinkedIn: <a href="linkedin.com/in/shukurat-bello/"><b>@shukurat-bello</b></a><br />
   
-<a href="https://medium.com/@rowangayleschaefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rowangayleschaefer" height="20" width="30" /></a>  medium: <a href="https://medium.com/@rowangayleschaefer"><b>@adetejubello </b></a></a><br />
+<a href="https://medium.com/@adetejubello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rowangayleschaefer" height="20" width="30" /></a>  medium: <a href="https://medium.com/@adetejubello"><b>@adetejubello </b></a></a><br />
 
 
 
