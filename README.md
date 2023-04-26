@@ -24,7 +24,7 @@
   
 👨‍💻   Data Analyst
   
-🌍   I love books, they are the best comapnions ever
+🌍   I love books, they are the best companions ever
 
 🌱   I’m currently working on: too many things but top of mind is perfecting my data viz skills
 
@@ -42,7 +42,7 @@
   
 -   Working on portfolio projects 
   
--   
+-   I want to  be a badass programmer, so I am learning to code at ALX Software Engineering Program.
   
   
  ### 💡Skills 💡
@@ -70,13 +70,18 @@
   
 <br /><p>
   
+  
 <h3 align="left">👋 Connect with me!</h3>
 <p align="left">
-<a href="https://twitter.com/LadyShukroh" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shukurat/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LadyShukroh" height="20" width="30" /></a>  Twitter: <a href='https://twitter.com/LadyShukroh'><b>@ladyshukroh</a></b><br />
+<a href="https://twitter.com/LadyShukroh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LadyShukroh" height="20" width="30" /></a>  Twitter: <a href='https://twitter.com/LadyShukroh'><b>@ladyshukroh</a></b><br />
   
-<a href="linkedin.com/in/shukurat-bello/" target="blank"><img align="center" src="https://raw.githubusercontent.com/shukurat-bello/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shukurat-bello" height="20" width="30" /></a>  LinkedIn: <a href="linkedin.com/in/shukurat-bello/"><b>@shukurat-bello</b></a><br />
+<a href="linkedin.com/in/shukurat-bello/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shukurat-bello" height="20" width="30" /></a>  LinkedIn: <a href="linkedin.com/in/shukurat-bello/"><b>@shukurat-bello</b></a><br />
   
-<a href="https://medium.com/@adetejubello" target="blank"><img align="center" src="https://raw.githubusercontent.com/adetejubello/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rowangayleschaefer" height="20" width="30" /></a>  medium: <a href="https://medium.com/@adetejubello"><b>@adetejubello </b></a></a><br />
+<a href="https://medium.com/@adetejubello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rowangayleschaefer" height="20" width="30" /></a>  medium: <a href="https://medium.com/@adetejubello"><b>@adetejubello </b></a></a><br />
+
+
+### 📝 Currently Learning 📝
+- [Danny's 8 Week SQL challenge](https://github.com/subalasingh/8-Week-SQL-Challenge)
 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShukuratBello&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShukuratBello&layout=compact&theme=buefy&hide_border=true"/> |
