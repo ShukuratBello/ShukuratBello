@@ -16,10 +16,14 @@
 <h4><i>Adobe Scholar and DS Teaching Assistant at General Assembly</i></h3>
 <img src="https://github.com/rowangayleschaefer/rowangayleschaefer/blob/main/imgs/Screenshot%202022-06-12%20at%208.45.45%20PM.png?raw=true" height=65><br />
 -->
-
 </div>
 
 <p>
+  
+  ### ✨ About Me ✨
+- 🌍 Data engineer who loves to make impact
+- 👨‍💻 Data Engineer at Unilever
+- :soccer: An avid lover of football
 
 <h3>About me:</h3>
 
@@ -36,6 +40,10 @@
 
 <br /><p>
 
+  
+  ### ⚡️ Currently ⚡️
+- Working on portfolio projects 
+- Learning data orchestration using Airflow
 
   
   
@@ -73,7 +81,7 @@
 <p align="left">
 <a href="https://twitter.com/LadyShukroh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LadyShukroh" height="20" width="30" /></a>  Twitter: <a href='https://twitter.com/LadyShukroh'><b>@ladyshukroh</a></b><br />
   
-<a href="linkedin.com/in/shukurat-bello/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shukurat-bello" height="20" width="30" /></a>  LinkedIn: <a href="linkedin.com/in/shukurat-bello/"><b>@shukurat-bello</b></a><br />
+<a href="linkedin.com/in/shukurat-bello/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shukurat-bello" height="20" width="30" /></a>  LinkedIn: <a href="linkedin.com/in/shukurat-bello/"><b>@shukurat-bello</b></a><br />
   
 <a href="https://medium.com/@adetejubello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rowangayleschaefer" height="20" width="30" /></a>  medium: <a href="https://medium.com/@adetejubello"><b>@adetejubello </b></a></a><br />
 
