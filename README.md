@@ -42,7 +42,7 @@
   
 -   Working on portfolio projects 
   
--   I want to  be a badass programmer, so I am learning to code at ALX Software Engineering Program.
+-   Working hard to the best Data professional I know I can be.
   
   
  ### 💡Skills 💡
